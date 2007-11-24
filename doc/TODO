@@ -1,0 +1,9 @@
+TODO
+
+- idea, class_path support to amfphp to enable any existing ez class
+- idea, settings based service enable control
+- idea, module based service browser (using modified copy of amfphp)
+-- dep, decompile fix url/uri breakdowns and recompile
+- idea, flash based front end component session state using eZ in remote
+-- exp, to perform things like user session authentication from a flash header
+-- exp, to pass session variables to components
